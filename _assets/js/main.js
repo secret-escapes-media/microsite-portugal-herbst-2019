@@ -1,6 +1,4 @@
 // general js for the project that wouldn't be a reuseable component
-
-
 var coll = document.getElementsByClassName("bv-collapsible");
 
 var i;
