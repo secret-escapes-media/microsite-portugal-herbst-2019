@@ -11,9 +11,11 @@
 
     {% if page.id == 'overview' %}
     {% include page/banner.html %}
-    {% elsif page.layout == 'content' %}
+    {% include page/banner-content.html %}
+    {% else %}
     {% include page/banner-content.html %}
     {% endif %}
+
 
     <div class="content-spacing section-spacing  ">
       {{ content }}

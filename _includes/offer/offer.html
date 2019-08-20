@@ -3,7 +3,7 @@
 
 
 
-<div class="offer" >
+<div class="offer" id="bv-toggle">
 
   <a class="offer__link" href="{{offer.link}}{{site.se-tracking-link}}" target="_blank"><span class="btn btn--bv-red">Zum Angebot</span></a>
 
@@ -37,7 +37,7 @@
         <div class="offer__details">
           <div>Ab <span class="offer__price ">{{offer.price}}€</span></div>
           <div class="text--md">{{offer.price-description}}</div>
-
+          <div class="text--md" style="display:none;">{{offer.end-date}}</div>
         </div>
 
       </div>

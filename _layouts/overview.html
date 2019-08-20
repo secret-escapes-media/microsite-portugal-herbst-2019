@@ -2,6 +2,20 @@
 layout: default
 ---
 
+<script>
+  var elem = document.getElementById("banner-content");
+  var elem2 = document.getElementById("jssor_1");
+  var isIE11 = !!window.MSInputMethodContext && !!document.documentMode;
+
+  if (isIE11 === true) {
+    console.log(isIE11);
+        elem2.parentNode.removeChild(elem2);
+  }else{
+    console.log(elem2);
+      elem.parentNode.removeChild(elem);
+  }
+</script>
+
 
 <div class=" vpad--xxl {{page.colour}}">
   <div class="container">

@@ -1,6 +1,107 @@
+
+
 - id: "1"
-  title: "João Farinho"
+  title: Luísa Marques da Gama Vilar
   img: bg-img1
+  location: Cascais
+
+  tips:
+
+    items:
+
+      - id: 1
+        question: "Was sind deine Lieblingsorte in Portugal / Lissabon / Cascais"
+        answer: "Schwere Frage. Dafür, dass Portugal so ein kleines Land ist, ist es wirklich faszinierend. Einer meiner liebsten Orte ist São Miguel auf den Azoren. Wenn es um Natur geht, ist es unschlagbar – besonders der Kratersee Lagoa do Fogo ist atemberaubend. In Lissabon liebe ich den Aussichtspunkt Miradouro da Senhora do Monte, von wo aus man die gesamte Stadt sehen kann. Für mich ist das ein besonderer Ort, ich hab viele schöne Momente dort erlebt. Auch der Miradouro do Adamastor ist ein legendärer Ort in Lissabon und wurde erst vor Kurzem privatisiert. Dort entsteht jetzt ein Hotel. In Cascais ist die Praia do Guincho mein Lieblingsort, zweifellos."
+
+      - id: 2
+        question: "Gibt es noch Winkel in Portugal, die unerkundet sind"
+        answer: "Sicher! In Lissabon ist es eher schwierig, da wirklich jeder Teil der Stadt verplant ist. Aber im ganzen Land gibt es noch viele sehenswerte Orte. Ich war kürzlich wieder in Porto, wo es besonders viele unentdeckte Plätze gibt. Zum Glück wurde es noch weitestgehend verschont."
+
+      - id: 3
+        question: "Warum ist Portugal im Herbst so besonders"
+        answer: "Frühjahr und Herbst eignen sich sehr gut für einen Portugal-Besuch. Der Sommer fängt hier recht früh an, um den Mai herum, und endet sehr spät, denn manchmal ist es noch bis Anfang Dezember warm. Der Vorteil im Herbst ist, dass man exzellentes Wetter zum niedrigeren Preis bekommt, da es ja Off-Season ist."
+
+      - id: 4
+        question: "Was würdest du machen, wenn du eine Woche Zeit hättest"
+        answer: "Nur schwere Fragen, haha! Es gibt in Portugal zwei Orte, die ich noch nie besucht habe. Deshalb würd ich mich entweder für eine Woche im Nationalpark Gêres entscheiden. Alternativ würde ich auch gerne eine Woche lang die Costa Alentejana entlang fahren, mit Van oder Fahrrad. Es gibt so viele Strände und kleine Dörfchen auf dem Weg."
+
+      - id: 5
+        question: "Wo entspannst du dich am besten vom Stadtleben"
+        answer: "Wenn ich nur eine kurze Auszeit brauche, würde ich zum Monsanto Park gehen oder einen der Strände an der Küste zwischen Lissabon und Cascais besuchen. Wenn ich mehr Zeit zur Verfügung habe, dann setze ich mich in den Alentejo ab. Ein einmaliger Ort, wo man sich fernab der Gesellschaft entspannen kann und den Kontakt zur Natur wiederfindet. Im Alentejo kann man sich aufs Wesentliche konzentrieren und den Rest vergessen."
+
+
+################################################################################
+
+
+- id: "2"
+  title: Raquel Dionísio
+  img: bg-img2
+  location: Lissabon
+  copyright: >
+    Foto: © Nomadic by Choice<br><br>
+
+  tips:
+
+    items:
+
+      - id: 1
+        copyright: "Foto: © Nomadic by Choice"
+        question: "Was ist dein Lieblingsort in Portugal"
+        answer: "Schwer zu beantworten – es gibt so viele! Ich beschränke mich auf zwei: der Miradouro de Santa Catarina in Lissabon und der Inselteil von Cabanas de Tavira an der Algarve."
+
+      - id: 2
+        question: "Warum sollte man Portugal unbedingt besuchen"
+        answer: "Vor allem wegen der freundlichen Menschen. Die Portugiesen sind ziemlich nostalgisch, aber sehr nett und aufgeschlossen und sehr hilfsbereit. Dazu kommt noch die Landschaft, das besondere Licht, das Wetter… und auch noch die unglaubliche Menge an historischen Gebäuden."
+
+      - id: 3
+        question: "Wenn du einen einwöchigen Portugal-Trip zusammenstellen würdest, was wäre dabei"
+        answer: "Wir würden von Lissabon Richtung Sagres aufbrechen, die Costa Vicentina entlang, jeden Tag einen anderen Strand sehen (Comporta, Porto Covo und llha do Pessegueiro, Odeceixe, Monte Clérigo Arrifana, Amado, Cordoama/Castelejo) und frische Meeresfrüche genießen!"
+
+      - id: 4
+        question: "Was sind deine Lieblingsbeschäftigungen zu den verschiedenen Jahreszeiten"
+        answer: "Im Frühling und Sommer: am Strand sein, die Parks in Lissabon mit Freunden unsicher machen und Jazz hören. Im Herbst und Winter: der Sonnenuntergang am Torre de Belém, frischer Fisch und Meeresfrüchte mit Meerblick in einem der Restaurants in Cascais."
+
+      - id: 4
+        question: "Was für portugiesische Spezialitäten landen auf deinem Teller"
+        answer: "Percebes (Entenmuscheln), Bacalhau à Brás (Kabeljaugericht), Francesinha (sehr gehaltvolles Sandwich), Pastél de Belem, Queijadas de Sintra (Süßgebäck), Travesseiros de Sintra (Gebäck mit Mandelcreme)."
+
+
+
+################################################################################
+
+
+
+- id: "3"
+  title: "Miguel Pereira"
+  img: bg-img3
+  location: Cascais
+
+  tips:
+
+    items:
+
+      - id: 1
+        question: "Was sind die versteckten Juwelen von Portugal"
+        answer: "Da wäre zum einen Odeceixe an der Algarve mit seinen zwei Stränden: Praia de Odeceixe und die Praia das Adegas. Die Praia de Odeceixe liegt zwischen der Flussmündung und dem Atlantik; beide Strände sind noch nicht so überlaufen und man ist mit Portugiesen unter sich. Auch der Ort Odeceixe ist sehr süß und sehenswert."
+
+      - id: 2
+        question: "Wo entspannst du dich vom Stadttrubel"
+        answer: "An der Costa da Caparica, südlich von Lissabon."
+
+      - id: 3
+        question: "Was macht Portugal so besonders für dich"
+        answer: "Vor allem das Essen! In Portugal kannst du ins kleinste Gasthäuschen einkehren und das Essen wird immer hervorragend sein. Portugiesen essen fast den ganzen Tag und trinken dazu immer guten Wein. Sie legen deshalb großen Wert darauf, dass selbst die kleinste Mahlzeit qualitativ hochwertig und lecker ist."
+
+      - id: 4
+        question: "Was für Spezialitäten sollte man sich also nicht entgehen lassen"
+        answer: "Bacalhau com Natas (Kabeljau mit Kartoffeln, im Ofen gebacken), Açorda de Marisco (Meeresfrüchteeintopf aus dem Alentejo), Leitão Assado (Spanferkel), Carne de Porco à Alentejana (Gericht aus dem Alentejo, Schweinefleisch mit Muscheln und Koriander), Polvo à Lagareiro (Tintenfisch), Pica-Pau (‘Specht’: ein Snack aus Rindfleisch zum Bier zu genießen), Moelas (Ragu aus Geflügelmägen)."
+
+
+
+
+- id: "4"
+  title: "João Farinho"
+  img: bg-img4
   location: Vilamoura, Algarve
 
   tips:
@@ -36,9 +137,9 @@
 ################################################################################
 
 
-- id: "2"
+- id: "5"
   title: Joana Cleto
-  img: bg-img2
+  img: bg-img5
   location: Lissabon
 
   tips:
@@ -61,6 +162,31 @@ Besonders schön ist auch der lange Sandstrand Praia do Meco in Aldeia do Meco. 
       - id: 4
         question: "Welche Orte würdest du einem Lissabon-Kurzurlauber empfehlen, der neben der Hauptstadt noch mehr von Portugal sehen&nbsp;möchte"
         answer: "Óbidos ist ein wunderschöner Ort, nördlich von Lissabon. Unbedingt probieren sollte man dort „Ginginha D’Óbidos”, Kirschlikör aus einem essbaren Schokobecher. Von Óbidos fährt man nur 30 Kilometer an die Küste nach Baleal - der weiße Sandstrand hier ist kilometerlang und sehr sauber. Baleal liegt um die Ecke von Peniche, einem weitaus bekannteren Ort, was Baleal eher zu einem Geheimtipp macht - geeignet für Familien, aber auch ein toller Spot für&nbsp;Surfer."
+
+
+################################################################################
+
+
+- id: "6"
+  title: Tomás Goucha
+  img: bg-img6
+  location: Santarém
+
+  tips:
+
+    items:
+
+      - id: 1
+        question: "Was ist dein liebster Ort in Portugal und insbesondere im Alentejo"
+        answer: "Als Stadtmensch gefällt mir ehrlich gesagt kein Ort in Portugal besser als unsere schöne Hauptstadt Lissabon. Aber auch Portugals Natur hat sehr viel anzubieten – besonders die wilde Felsenküste im Westen. Diese wunderschöne und zumeist vom Massentourismus verschonte Ecke des Landes erstreckt sich zwischen dem Südalentejo und der Westalgarve. Dort findet sich auch mein Lieblingsstrand, Arrifana, die perfekte Kulisse für einen Sonnenuntergang über dem Atlantik, mit frischen Meeresfrüchten und gutem Alentejowein"
+
+      - id: 2
+        question: "Was ist das besondere an Porto"
+        answer: "Porto war meine erste Wahlheimat, nachdem ich meine Geburtsstadt Santarém verlassen habe. Als Studentenstadt hat Porto allerdings viel mehr zu bieten als die typischen Kneipen. Die Architektur der Stadt ist außergewöhnlich, verglichen mit den weißen und gelben Häuschen des sonnigen Südens. Solange Porto nicht versucht, eine hippe, trendy Stadt für die Lowcost-Touristen zu sein, ist sie eine extrem charmante Stadt, mit engen Gassen und einzigartigen Läden, die man sonstwo schwer finden kann. So ist beispielsweise der Club ‘Maus Hábitos’ (wortwörtlich ‘Schlechte Gewohnheiten’) tagsüber Restaurant und Bar mit einem wunderschönen Ausblick über das Stadtzentrum. Rua Miguel Bombarda und ihre Umgebung mit vielen Kunstgalerien darf auch auf keinen Fall bei jeder Portoreise fehlen. Schließlich sollte man sich auch die Zeit nehmen, ans Meer zu fahren, wo Porto eine weitere Facette zeigt."
+
+      - id: 3
+        question: "Gibt es bestimmte Aktivitäten im Herbst, die man auf keinen Fall verpassen sollte? Festivals oder Events"
+        answer: "Der Anfang des Herbstes in Portugal ist extrem mild – im Oktober kann man oft noch sehr gut an den Strand gehen, auch wenn die Nächte wesentlich kühler sind. Es ist auch eine sehr gute Zeit, um die Städte zu besuchen, da die Einwohner wieder zurück sind und das neue Kulturjahr empfangen. In Lissabon gibt es zwei Filmfestivals, die ich empfehlen würde: Queer Lisboa und Doclisboa. In Braga im Norden gibt es ein Musikfestival für Leute, die wortwörtlich gerne sitzen, Festival Para Gente Sentada."
 
 
 ################################################################################
