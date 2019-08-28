@@ -9,8 +9,12 @@
 
   <div class="bg-img bg-img--3-2" style="background-image: url('{{offer.image}}')">
     {% if offer.flight-tag | where: 'flight-tag', 'true' %}
-      <img class="flight-tag" src="{{site.img}}/icons/flights-incl.png" alt="FLÜGE INKLUSIVE">
+      <img class="flight-tag" src="{{site.img}}/icons/tag-flights.png" alt="FLÜGE INKLUSIVE">
     {% endif %}
+
+      {% if offer.config-tag | where: 'config-tag', 'true' %}
+        <img class="flight-tag" src="{{site.img}}/icons/tag-config.png" alt="Konfigurierbar">
+      {% endif %}
 
   </div>
 
@@ -37,7 +41,6 @@
         <div class="offer__details">
           <div>Ab <span class="offer__price ">{{offer.price}}€</span></div>
           <div class="text--md">{{offer.price-description}}</div>
-          <div class="text--md" style="display:none;">{{offer.end-date}}</div>
         </div>
 
       </div>
@@ -47,6 +50,7 @@
 
     </div>
 
+    <div class="text--md" style="display:block;">{{offer.end-date}}</div>
   </div>
 
 </div>
